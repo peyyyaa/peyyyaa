@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hannah</h1>
+<h1 align="center">Hi, I'm Hannah</h1>
 <h3 align="center">A Computer Science student & aspiring Software Engineer from the Philippines</h3>
 
 <p align="center">
@@ -20,10 +20,7 @@
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
-  </a>
-  <a href="mailto:your.email@gmail.com" target="_blank">
+  <a href="mailto:hannahfayebayno@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="email" width="40" height="40"/>
   </a>
 </p>
@@ -60,16 +57,6 @@
       alt="git" width="40" height="40"/>
   </a>
 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg"
-      alt="firebase" width="40" height="40"/>
-  </a>
-
-  <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"
-      alt="flutter" width="40" height="40"/>
-  </a>
-
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"
       alt="figma" width="40" height="40"/>
@@ -82,5 +69,5 @@
 <h3 align="left">📊 GitHub Stats</h3>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=peyyyaa&show_icons=true" />
 </p>
